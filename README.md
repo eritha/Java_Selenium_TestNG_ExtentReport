@@ -95,3 +95,15 @@ $ mvn clean compile
 ```
 $ mvn install or mvn test
 ```
+
+## Result
+
+Report Overview
+![GitHub Logo](/test-reports/Overview.PNG)
+Format: ![Alt Text](url)
+https://erit-ha.tinytake.com/tt/NDI3ODgwMV8xMzQyNTAwNQ
+
+Report Result
+![GitHub Logo](/test-reports/Result.PNG)
+Format: ![Alt Text](url)
+https://erit-ha.tinytake.com/tt/NDI3ODgwNl8xMzQyNTA0MA
