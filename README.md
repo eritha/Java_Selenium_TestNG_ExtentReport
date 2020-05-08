@@ -84,7 +84,7 @@ Edit testng.xml to run suite, parallel or st else
 
 Build
 ```
-$ mvn build
+$ mvn clean compile
 ```
 
 ### Command Line
@@ -93,5 +93,5 @@ $ mvn build
 
 #### Run all tests at .sln directory
 ```
-$ mvn install
+$ mvn install or mvn test
 ```
